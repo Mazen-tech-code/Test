@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\applicationform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\applicationform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\applicationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\applicationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\forgetpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\forgetpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|c:\\users\\windows\\desktop\\wpf projects\\moviesystem\\moviesystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233610A8-AC02-414A-8A1A-FBCF2796C817}|MovieSystem\\MovieSystem.csproj|solutionrelative:moviesystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "MovieSystem\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Admin.xaml.cs",
+              "RelativeToolTip": "MovieSystem\\Admin.xaml.cs",
+              "ViewState": "AgIAAAoAAADAAAAAAAAhwD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:43:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ApplicationForm.xaml.cs",
+              "RelativeDocumentMoniker": "MovieSystem\\ApplicationForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ApplicationForm.xaml.cs",
+              "RelativeToolTip": "MovieSystem\\ApplicationForm.xaml.cs",
+              "ViewState": "AgIAABIAAAAgZGZmZqYqwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:05:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "MovieSystem\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\SignUp.xaml.cs",
+              "RelativeToolTip": "MovieSystem\\SignUp.xaml.cs",
+              "ViewState": "AgIAAB8AAACAlJmZmdktwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:12:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "MovieSystem\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Login.xaml.cs",
+              "RelativeToolTip": "MovieSystem\\Login.xaml.cs",
+              "ViewState": "AgIAABoAAAAgmZmZmZkgwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:00:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ApplicationForm.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\ApplicationForm.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ApplicationForm.xaml",
+              "RelativeToolTip": "MovieSystem\\ApplicationForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T14:49:25.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgetPassword.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ForgetPassword.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\ForgetPassword.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\ForgetPassword.xaml",
+              "RelativeToolTip": "MovieSystem\\ForgetPassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T13:36:18.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Login.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\Login.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Login.xaml",
+              "RelativeToolTip": "MovieSystem\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T13:30:21.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Admin.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\Admin.xaml",
+              "RelativeToolTip": "MovieSystem\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T14:30:29.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\SignUp.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\SignUp.xaml",
+              "RelativeToolTip": "MovieSystem\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T13:33:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MovieSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\MainWindow.xaml",
+              "RelativeToolTip": "MovieSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T13:27:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MovieSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\WPF Projects\\MovieSystem\\MovieSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MovieSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:27:43.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
